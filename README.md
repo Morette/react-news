@@ -40,9 +40,9 @@ To start the development server, run:
 ### With Docker
 
 ```
-docker build -t react-news .
+docker build -t {name} .
 
-docker run --rm -p 3000:3000 news-filtering:latest
+docker run --rm -p 3000:80 {name}:latest
 ```
 
 ## Environment Variables

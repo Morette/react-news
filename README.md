@@ -19,7 +19,7 @@ Ensure you have the following installed on your machine:
 
 1. Clone the repository:
 
-`git clone https://github.com/your-username/news-list-app.git`
+`git clone https://github.com/Morette/react-news.git`
 
 2. Navigate to the project directory:
 
